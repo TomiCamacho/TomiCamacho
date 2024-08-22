@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, soy Tomy</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas y Desarrollo Web.</h3>
 
-- 🔭 Estoy trabajando en una página web: [Portfolio](https://github.com/TomiCamacho/Trabajo-Final-1)
+- 🔭 Estoy trabajando en una página web: [Portfolio](https://github.com/TomiCamacho/TPFinal2REACT)
 
 - 🎓 Estudiante de Ingeniería en Sistemas en **UTN-FRM**.
 
